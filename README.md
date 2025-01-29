@@ -29,13 +29,14 @@ GitHub Pages: A platform for hosting and deploying web applications.
 Installation
 To run this portfolio locally, follow these steps:
 
-Clone the repository: git clone https://github.com/rishavchanda/rishav-chanda-portfolio.git
-Navigate to the project directory: cd rishav-chanda-portfolio
-Install the dependencies: npm install
+
 Start the development server: npm start
 Open your browser and visit: http://localhost:3000
 Usage
-After installing and running the project locally, you can navigate through the different sections of the portfolio using the navigation menu. Explore the About Me section to learn more about my background and skills. Visit the Projects section to see detailed information about my projects, including descriptions and screenshots. Use the Contact section to send me a message or inquiry.
+After installing and running the project locally, you can navigate through the different sections of the portfolio using the navigation menu. 
+Explore the About Me section to learn more about my background and skills. 
+Visit the Projects section to see detailed information about my projects, including descriptions and screenshots. 
+Use the Contact section to send me a message or inquiry.
 
 Contributing
 Contributions are welcome! If you'd like to contribute to my portfolio, please follow these steps:
